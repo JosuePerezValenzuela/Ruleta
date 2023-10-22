@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Apuesta4Test
+comment0.text=\r\n\ The\ test\ class\ Apuesta4Test.\r\n\r\n\ @author\ \ (Josue\ Perez\ Valenzuela)\r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=Apuesta4Test()
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=
+comment3.target=void\ testApuestaW()
+comment4.params=
+comment4.target=void\ testApuestaL()
+comment5.params=
+comment5.target=void\ testApuesta0()
+comment6.params=
+comment6.target=void\ tearDown()
+numComments=7

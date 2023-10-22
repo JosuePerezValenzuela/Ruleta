@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Apuesta2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Apuesta2\ here.\r\n\ \r\n\ @author\ (Josue\ Perez\ Valenzuela)\ \r\n\ @version\ (1)\r\n
+comment1.params=valorApostado\ apuesta
+comment1.target=Apuesta2(int,\ java.lang.String[])
+numComments=2

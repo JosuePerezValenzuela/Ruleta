@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Apuesta
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Apuesta\ here.\r\n\ \r\n\ @author\ (Josue\ Perez\ Valenzuela)\ \r\n\ @version\ (1)\r\n
+comment1.params=numAlea
+comment1.target=int\ definirResultado(int)
+comment2.params=
+comment2.target=int\ pagar()
+comment3.params=
+comment3.target=int\ getValorApostado()
+numComments=4
